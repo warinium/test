@@ -54,7 +54,7 @@ We may update this Privacy Policy to reflect changes in our application. Signifi
 If you have any questions about this Privacy Policy, please contact us:
 
 **DISPATCH News APP**  
-📧 Email: [christian@DISPATCHnews.com](mailto:christian@Sportblitznews.com)  
+📧 Email: [christian@Sportblitznews.com](mailto:christian@Sportblitznews.com)  
 🏢 Address: Kumlatofta vägen 527, 275 63 Blentarp. Sweden  
 
 
