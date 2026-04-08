@@ -1,7 +1,7 @@
 # Privacy Policy
 
 ## Introduction
-DISPATCH News respects your privacy and is committed to protecting your data. This Privacy Policy explains how we collect, use, and protect your information when you use our application.
+DISPATCH respects your privacy and is committed to protecting your data. This Privacy Policy explains how we collect, use, and protect your information when you use our application.
 
 ## Data We Collect
 We only collect data necessary to improve your experience and ensure the application functions correctly. Specifically, we collect:
@@ -53,7 +53,7 @@ We may update this Privacy Policy to reflect changes in our application or legal
 ## Contact Information
 If you have any questions about this Privacy Policy, please contact us:
 
-**DISPATCH News APP** 📧 Email: [christian@Sportblitznews.com](mailto:christian@Sportblitznews.com)  
+**DISPATCH APP** 📧 Email: [sportspotnews@gmail.com](mailto:sportspotnews@gmail.com)  
 🏢 Address: Kumlatofta vägen 527, 275 63 Blentarp. Sweden  
 
 --
