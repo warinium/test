@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WahBudget - Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      background-color: #f8f9fa;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    }
+
+    h1 {
+      color: #1A3320;
+      border-bottom: 2px solid #1A3320;
+      padding-bottom: 10px;
+      font-size: 2.2em;
+    }
+
+    h3 {
+      color: #1A3320;
+      margin-top: 30px;
+      font-size: 1.4em;
+    }
+
+    p, ul {
+      margin-bottom: 20px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    a {
+      color: #1A3320;
+      text-decoration: underline;
+      font-weight: bold;
+    }
+
+    a:hover {
+      color: #FFC107;
+    }
+
+    hr {
+      border: 0;
+      border-top: 1px solid #eee;
+      margin: 40px 0 20px 0;
+    }
+
+    .footer {
+      font-size: 0.9em;
+      color: #666;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Privacy Policy</h1>
+
+    <h3>Introduction</h3>
+    <p>
+      Our privacy policy will help you understand how WahSoft manages your data in the <strong>WahBudget</strong> app. This SERVICE is provided by WahSoft and is intended for use as is.
+    </p>
+    <p>
+      This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service. By using WahBudget, you agree to the collection and use of information in relation to this policy.
+    </p>
+
+    <h3>Information Collection and Use</h3>
+    <p>
+      To provide you with cloud synchronization and a seamless experience across devices, we require certain personally identifiable information:
+    </p>
+    <ul>
+      <li><strong>Account Information:</strong> When you sign in using Google Authentication, we collect your email address and basic profile information to create and secure your WahBudget account.</li>
+      <li><strong>Financial Data:</strong> The transactions, accounts, and categories you create are stored securely in our cloud database to allow for synchronization and data recovery.</li>
+      <li><strong>Images:</strong> If you choose to attach photos (e.g., receipts) to your transactions, these images are securely uploaded to our cloud storage.</li>
+    </ul>
+
+    <h3>Data Storage and Security</h3>
+    <p>
+      We value your trust in providing us your Personal Information, thus we strive to use commercially acceptable means of protecting it:
+    </p>
+    <ul>
+      <li><strong>Cloud Infrastructure:</strong> Your data is hosted securely using Supabase (a PostgreSQL-based backend).</li>
+      <li><strong>Access Control:</strong> We employ strict Row Level Security (RLS) policies. Your financial data and images are strictly tied to your authenticated User ID, ensuring that only you can access your information.</li>
+      <li><strong>App Security:</strong> WahBudget includes local security features such as a PIN code lock to prevent unauthorized access on your device.</li>
+    </ul>
+
+    <h3>Data Retention and Deletion (Soft Delete)</h3>
+    <p>
+      We retain your data for as long as your account is active. To maintain data integrity and prevent accidental loss, WahBudget uses a "soft delete" mechanism. When you delete a transaction or category within the app, it is marked as deleted in our database rather than being permanently erased immediately.
+    </p>
+    <p>
+      You have the right to request the complete and permanent deletion of your account and all associated personal and financial data. You can submit your request directly through our <a href="https://warinium.github.io/test/delete_my_data_wahbudget.html" target="_blank">Account Deletion Page</a> or by contacting us via email.
+    </p>
+
+    <h3>Third-Party Services</h3>
+    <p>
+      The app uses third-party services that may collect information used to identify you. Link to the privacy policies of third-party service providers used by the app:
+    </p>
+    <ul>
+      <li><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Play Services</a></li>
+      <li><a href="https://supabase.com/privacy" target="_blank" rel="noopener">Supabase</a></li>
+    </ul>
+
+    <h3>Log Data</h3>
+    <p>
+      We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ("IP") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+    </p>
+
+    <h3>Children’s Privacy</h3>
+    <p>
+      WahBudget does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers.
+    </p>
+
+    <h3>Changes to This Privacy Policy</h3>
+    <p>
+      We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+    </p>
+
+    <h3>Contact Us</h3>
+    <p>
+      If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.<br>
+      <strong>Email:</strong> <a href="mailto:h.dali.youcef@gmail.com">h.dali.youcef@gmail.com</a>
+    </p>
+
+    <hr>
+    <div class="footer">
+      <p>&copy; 2026 WahSoft. All rights reserved.</p>
+    </div>
+  </div>
+
+</body>
+</html>
